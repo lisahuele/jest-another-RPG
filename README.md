@@ -1,6 +1,6 @@
 # jest-another-RPG
 
-A simple, text-based RPG created as an introduction to Node.js, test-driven development, and object-oriented programming.
+A simple, command-line RPG created as an introduction to Node.js, test-driven development, and object-oriented programming.
 
 ## Contents
 Installation
