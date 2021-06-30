@@ -1,4 +1,5 @@
 # jest-another-RPG
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A simple, command-line RPG created as an introduction to Node.js, test-driven development, and object-oriented programming.
 
