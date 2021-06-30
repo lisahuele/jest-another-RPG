@@ -34,7 +34,7 @@ npm install jest
 and run `npm run test` from the command line.
 
 ## Questions
-If you have any questions about the repo, please contact me via email at lisahuele@gmail.com. You can find more of my work on my GitHub, lisahuele.
+If you have any questions about the repo, please contact me via email at lisahuele@gmail.com. You can find more of my work on my GitHub, [lisahuele link](https://github.com/lisahuele).
 
 ## Credits
 Created by Lisa Le.
