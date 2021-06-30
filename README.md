@@ -1,14 +1,15 @@
 # jest-another-RPG
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A simple, text-based RPG created as an introduction to Node.js, test-driven development, and object-oriented programming.
+A simple, command-line RPG created as an introduction to Node.js, test-driven development, and object-oriented programming.
 
 ## Contents
-Installation
-Usage
-Built With
-Tests
-Questions
-Credits
+- [Installation](#installation)
+- [Usage](#usage)
+- [Built With](#built-with)
+- [Tests](#tests)
+- [Questions](#questions)
+- [Credits](#credits)
 
 ## Installation
 To use this application, please install:
@@ -34,7 +35,7 @@ npm install jest
 and run `npm run test` from the command line.
 
 ## Questions
-If you have any questions about the repo, please contact me via email at lisahuele@gmail.com. You can find more of my work on my GitHub, lisahuele.
+If you have any questions about the repo, please contact me via email at lisahuele@gmail.com. You can find more of my work on my GitHub, [lisahuele](https://github.com/lisahuele).
 
 ## Credits
 Created by Lisa Le.
