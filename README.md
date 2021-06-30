@@ -1,13 +1,40 @@
 # jest-another-RPG
 
-create a command-line role-playing game (RPG) in which a user battles against a series of enemies whose health and stats can be sustained by a potion.
+A simple, text-based RPG created as an introduction to Node.js, test-driven development, and object-oriented programming.
 
-The solution must meet the following four criteria:
+## Contents
+Installation
+Usage
+Built With
+Tests
+Questions
+Credits
 
-Create an RPG and organize the code by player objects, enemy objects, and potion objects.
+## Installation
+To use this application, please install:
 
-The three main objects should have tests written for them.
+```
+npm  inquirer
+```
 
-A fourth Game object encompasses all of the game logic.
+## Usage
+After installing the required packages, use the command line to navigate to the root of the application and run node app. Follow prompts to enter player name and play the RPG.
 
-The game can be played in the command line based on user input.
+## Built With
+- JavaScript
+- Node.js
+- Inquirer Package
+- Jest Package
+
+## Tests
+To run tests on the application, install
+```
+npm install jest
+```
+and run `npm run test` from the command line.
+
+## Questions
+If you have any questions about the repo, please contact me via email at lisahuele@gmail.com. You can find more of my work on my GitHub, lisahuele.
+
+## Credits
+Created by Lisa Le.
