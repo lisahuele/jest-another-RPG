@@ -4,12 +4,12 @@
 A simple, command-line RPG created as an introduction to Node.js, test-driven development, and object-oriented programming.
 
 ## Contents
-Installation
-Usage
-Built With
-Tests
-Questions
-Credits
+[Installation](#installation)
+[Usage](#usage)
+[Built With](#built-with)
+[Tests](#tests)
+[Questions](#questions)
+[Credits](#credits)
 
 ## Installation
 To use this application, please install:
